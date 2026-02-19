@@ -35,7 +35,7 @@
     </strong>
   </p>
 
-![portabase-dashboard](https://github.com/user-attachments/assets/f5ec7204-79c0-43ac-ba17-f2ed682c39d6)
+![portabase-dashboard](https://github.com/user-attachments/assets/8f2c69d6-f1f9-4b80-b51c-01f6f13b9b62)
 
 
 </div>
