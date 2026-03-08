@@ -47,7 +47,7 @@ You have 4 ways to install Portabase:
 
 - Automated CLI (recommended) - [details](https://portabase.io/docs/dashboard/setup#cli)
 - Docker Compose setup - [details](https://portabase.io/docs/dashboard/setup#docker)
-- Kubernetes with Helm (soon)
+- Kubernetes with Helm [details](https://portabase.io/docs/dashboard/setup#helm)
 - Development setup - [details](https://portabase.io/docs/dashboard/setup#development)
 
 **Ensure Docker is installed on your machine before getting started.**
