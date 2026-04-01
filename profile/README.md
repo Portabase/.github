@@ -13,9 +13,9 @@
 
 [![License: Apache](https://img.shields.io/badge/License-apache-yellow.svg)](LICENSE)
 [![Docker Pulls](https://img.shields.io/docker/pulls/portabase/portabase?color=brightgreen)](https://hub.docker.com/r/portabase/portabase)
+[![Helm Chart](https://img.shields.io/badge/Helm-Kubernetes-326ce5?logo=helm&logoColor=white)](https://github.com/Portabase/portabase/pkgs/container/charts%2Fportabase)
 [![Platform](https://img.shields.io/badge/platform-linux%20%7C%20macos%20%7C%20windows-lightgrey)](https://github.com/Portabase/portabase)
 [![Support Portabase](https://img.shields.io/badge/Support-Portabase-orange)](https://www.buymeacoffee.com/portabase)
-
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
@@ -24,6 +24,8 @@
 [![SQLite](https://img.shields.io/badge/-SQLite-blue?logo=sqlite&logoColor=white)](https://sqlite.org/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white)](https://redis.io/)
 [![Valkey](https://img.shields.io/badge/Valkey-6284fc?style=flat&logo=Valkey&logoColor=white)](https://valkey.io/)
+[![Valkey](https://img.shields.io/badge/Firebird-f55b14?style=flat&logo=Firebird&logoColor=white)](https://firebirdsql.org/)
+
 [![Self Hosted](https://img.shields.io/badge/self--hosted-yes-brightgreen)](https://github.com/Portabase/portabase)
 [![Open Source](https://img.shields.io/badge/open%20source-❤️-red)](https://github.com/Portabase/portabase)
 
@@ -65,10 +67,10 @@ You have 4 ways to install Portabase:
 | **SQLite**         | ✅ Stable    | 3.x                           | Yes     |
 | **Redis**          | ✅ Stable    | 2.8+                          | No      |
 | **Valkey**         | ✅ Stable    | 7.2+                          | No      |
+| **Firebird**       | ✅ Stable    | 3.0, 4.0, 5.0                 | Yes     |
 | **MSSQL Server**   | ❌ Ongoing   | -                             | Yes     |
 
 See the [Database Servers documentation](https://portabase.io/docs/agent/db) for version-specific backup and restore details.
-
 
 
 ## Contributors
