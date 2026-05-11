@@ -69,7 +69,7 @@ You have 4 ways to install Portabase:
 | **Redis**          | ✅ Stable    | 2.8+                          | No      |
 | **Valkey**         | ✅ Stable    | 7.2+                          | No      |
 | **Firebird**       | ✅ Stable    | 3.0, 4.0, 5.0                 | Yes     |
-| **MSSQL Server**   | ❌ Ongoing   | -                             | Yes     |
+| **MSSQL Server**   | ✅ Stable    | -                             | Yes     |
 
 See the [Database Servers documentation](https://portabase.io/docs/agent/db) for version-specific backup and restore details.
 
