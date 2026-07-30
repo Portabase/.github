@@ -41,7 +41,7 @@
     </strong>
   </p>
 
-<img width="800" height="542" alt="portabase" src="https://github.com/user-attachments/assets/0f118500-2265-4878-a32e-c17da2f46d6c" />
+<img width="1280" height="868" alt="portabase" src="https://github.com/user-attachments/assets/251de1a7-98ad-48a4-aed0-5c83ee74e69d" />
 
 </div>
 
