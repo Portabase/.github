@@ -41,7 +41,7 @@
     </strong>
   </p>
 
-![portabase-dashboard](https://github.com/user-attachments/assets/681cc25b-c414-49ab-a735-5ded2f2e4934)
+<img width="800" height="542" alt="portabase-1 27" src="https://github.com/user-attachments/assets/939cd169-6cf1-4791-955f-62dfbb4d7e30" />
 
 </div>
 
