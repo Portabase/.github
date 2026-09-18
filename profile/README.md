@@ -47,28 +47,31 @@
 
 ## Installation
 
-You have 4 ways to install Portabase:
+You have 5 ways to install Portabase:
 
 - Automated CLI (recommended) - [details](https://portabase.io/docs/dashboard/setup#cli)
-- Docker Compose setup - [details](https://portabase.io/docs/dashboard/setup#docker)
-- Kubernetes with Helm [details](https://portabase.io/docs/dashboard/setup#helm)
+- Docker Run - [details](https://portabase.io/docs/dashboard/setup#docker)
+- Docker Compose setup - [details](https://portabase.io/docs/dashboard/setup#docker-compose)
+- Unraid Community Apps - [details](https://ca.unraid.net/apps/portabase-dashboard-1sdc97m05ufd7q) - [unraid support thread](https://forums.unraid.net/topic/199072-support-portabase-dashboard-agent-dockers/)
+- Kubernetes with Helm - [details](https://portabase.io/docs/dashboard/setup#helm)
 - Development setup - [details](https://portabase.io/docs/dashboard/setup#development)
 
 **Ensure Docker is installed on your machine before getting started.**
 
 ## Supported databases
 
-| Engine             | Support     | Supported Versions            | Restore |
-|:-------------------|:------------|:------------------------------|:--------|
-| **PostgreSQL**     | ✅ Stable    | 12, 13, 14, 15, 16, 17 et 18  | Yes     |
-| **MySQL**          | ✅ Stable    | 5.7, 8 et 9                   | Yes     |
-| **MariaDB**        | ✅ Stable    | 10 et 11                      | Yes     |
-| **MongoDB**        | ✅ Stable    | 4, 5, 6, 7 et 8               | Yes     |
-| **SQLite**         | ✅ Stable    | 3.x                           | Yes     |
-| **Redis**          | ✅ Stable    | 2.8+                          | No      |
-| **Valkey**         | ✅ Stable    | 7.2+                          | No      |
-| **Firebird**       | ✅ Stable    | 3.0, 4.0, 5.0                 | Yes     |
-| **MSSQL Server**   | ✅ Stable    | -                             | Yes     |
+| Engine             | Support   | Supported Versions            | Restore |
+|:-------------------|:----------|:------------------------------|:--------|
+| **PostgreSQL**     | ✅ Stable  | 12, 13, 14, 15, 16, 17 and 18 | Yes     |
+| **MySQL**          | ✅ Stable  | 5.7, 8 and 9                  | Yes     |
+| **MariaDB**        | ✅ Stable  | 10 and 11                     | Yes     |
+| **MongoDB**        | ✅ Stable  | 4, 5, 6, 7 and 8              | Yes     |
+| **SQLite**         | ✅ Stable  | 3.x                           | Yes     |
+| **Redis**          | ✅ Stable  | 2.8+                          | No      |
+| **Valkey**         | ✅ Stable  | 7.2+                          | No      |
+| **Firebird**       | ✅ Stable  | 3.0, 4.0, 5.0                 | Yes     |
+| **MSSQL Server**   | ✅ Stable  | 2017, 2019, 2022, Azure SQL         | Yes     |
+| **Docker Volume**  | ✅ Stable  | Docker Engine 20.10+  | Yes |
 
 See the [Database Servers documentation](https://portabase.io/docs/agent/db) for version-specific backup and restore details.
 
