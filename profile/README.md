@@ -90,7 +90,7 @@ See the [Database Servers documentation](https://portabase.io/docs/agent/db) for
   <tr>
     <td align="center">
       <a href="https://github.com/sponsors/Portabase">
-        <img src="/.github/assets/plus-circle.svg" height="180" alt="Become a platinum sponsor"/>
+        <img src="/assets/plus-circle.svg" height="180" alt="Become a platinum sponsor"/>
         <br />
         Become a platinum sponsor
       </a>
@@ -104,7 +104,7 @@ See the [Database Servers documentation](https://portabase.io/docs/agent/db) for
   <tr>
     <td align="center">
       <a href="https://github.com/sponsors/Portabase">
-        <img src="/.github/assets/plus-circle.svg" height="150" alt="Become a gold sponsor"/>
+        <img src="/assets/plus-circle.svg" height="150" alt="Become a gold sponsor"/>
         <br />
         Become a gold sponsor
       </a>
@@ -118,7 +118,7 @@ See the [Database Servers documentation](https://portabase.io/docs/agent/db) for
   <tr>
     <td align="center">
       <a href="https://github.com/sponsors/Portabase">
-        <img src="/.github/assets/plus-circle.svg" height="100" alt="Become a silver sponsor"/>
+        <img src="/assets/plus-circle.svg" height="100" alt="Become a silver sponsor"/>
         <br />
         Become a silver sponsor
       </a>
@@ -132,7 +132,7 @@ See the [Database Servers documentation](https://portabase.io/docs/agent/db) for
   <tr>
     <td align="center">
       <a href="https://github.com/sponsors/Portabase">
-        <img src="/.github/assets/plus-circle.svg" height="80" alt="Become a community sponsor"/>
+        <img src="/assets/plus-circle.svg" height="80" alt="Become a community sponsor"/>
         <br />
         Become a community sponsor
       </a>
