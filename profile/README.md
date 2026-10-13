@@ -81,7 +81,7 @@ Some Portabase features were developed thanks to organizations that funded their
 
 | Feature | Funded by | Released in |
 |:--------|:----------|:------------|
-| [MSSQL backups as DACPAC and restore over existing databases](https://github.com/Portabase/portabase/issues/519) | <a href="https://solydev.com/"><img src="/assets/customers/solydev.png" height="28" alt="Solydev"/></a> | [Dashboard 1.32.0](https://github.com/Portabase/portabase/releases/tag/1.32.0) · [Agent 1.22.0](https://github.com/Portabase/agent-rust/releases/tag/1.22.0) |
+| [MSSQL backups as DACPAC and restore over existing databases](https://github.com/Portabase/portabase/issues/519) | <a href="https://solydev.com/"><img src="/assets/solydev.png" height="28" alt="Solydev"/></a> | [Dashboard 1.32.0](https://github.com/Portabase/portabase/releases/tag/1.32.0) · [Agent 1.22.0](https://github.com/Portabase/agent-rust/releases/tag/1.22.0) |
 
 Need a specific feature? Portabase accepts funded development requests. [Contact us](mailto:contact@portabase.io).
 
